@@ -1,0 +1,8 @@
+.similiar .swiper-button-next,
+.similiar .swiper-button-prev {
+  background-color: rgba(27, 27, 27, 0.438);
+  padding: 20px 30px;
+  border-radius: 50%;
+  color: rgba(234, 239, 233, 0.689) !important;
+  font-weight: 600;
+}
